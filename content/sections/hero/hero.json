@@ -1,0 +1,22 @@
+{
+  "intro": "<Hello World/>",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a gαυтαм мαηαк",
+  "subtitle": {
+    "prefix": "I create awesome Products. ",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "A Full Stack Developer and a Web Creator with a passion for building great products 😈",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Instagram","Github", "Mail"],
+    "showIcons": false
+  }
+}

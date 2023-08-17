@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ BitCoin",
+      "title": "Xcrypto-App!",
+      "description": "This is a crypto web App where you can check the all crypto currency present in the market with real time market price and the scaling percentage of the of the crypto currency with total market cap.",
+     
+      "image": {
+        "src": "../../images/bitcoin.avif",
+        "alt": "Quick Open Source ",
+        "linkTo": "https://github.com/GAUTAMMANAK1/Xcrypto-App.git"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/GAUTAMMANAK1/Xcrypto-App.git"
+        },
+        {
+          "type": "external",
+          "url": "https://xcrypto-app-ten.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Chemistry",
+      "title": "Periodic Table Of Elements",
+      "description": "The periodic table is a tabular course of action of the chemical components by increasing atomic number which shows the components with the goal that one may see slants in their properties.",
+      "tags": [""],
+      "image": {
+        "src": "../../images/periodic.webp",
+        "alt": "Quick Open Source "
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://gautammanak1.github.io/Periodic-Table-of-Elements/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/GAUTAMMANAK1"
+  }
+}

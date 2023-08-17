@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "gautammanak",
+    "titleTemplate": "%s",
+    "description": "Hi I am Gautam Manak . I am Full Stack Web Developer who has been playing around Web for the last 2-3 years.",
+    "author": "Gautam Manak",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "A Passionate Front-end & UII/UX Designer from Meerut. I am Organizer, @Meerutcodehub.",
+    "social": {
+      "instagram" : "https://www.instagram.com/_half_engineer_01/",
+      "github": "https://github.com/gautammanak1",
+      "medium": "https://medium.com/@gautammanak1",
+      "linkedin": "https://www.linkedin.com/in/gautammanak1/",
+      "mail": "mailto:gautammanak1@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "<ʜᴀʟꜰ_ᴇɴɢɪɴᴇᴇʀ/>" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "https://dev.to/gautammanak1/" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "MeerutCodeHub", "url": "https://www.commudle.com/communities/meerut-code-hub" },
+        { "label": "Experience", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
