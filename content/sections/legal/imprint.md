@@ -3,6 +3,12 @@ sectionId: imprint
 ---
 
 ---
+#### Full Stack Engineer | KloudiDev Digital Solutions
+TechStack: Design ,TypeScript, React ,Tailwind CSS NodeJS,MongoDB. Oct 2023 - Present
+Contributed to the development of cutting-edge digital solutions, utilizing MERN stack technologies.
+Collaborated with team members to deliver high-quality software products within specified timelines.
+Implemented responsive and user-friendly interfaces, ensuring a seamless user experience.
+
 #### WEB DEVELOPER INTERNSHIP @Self Selection Board (Meerut)
 
 TechStack: HTML,CSS ,JS ,React.js,Firebas

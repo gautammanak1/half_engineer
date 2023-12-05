@@ -7,7 +7,7 @@
     "description": "Hi I am Gautam Manak . I am Full Stack Web Developer who has been playing around Web for the last 2-3 years.",
     "author": "Gautam Manak",
     "avatar": "../content/images/gatsby.png",
-    "bio": "A Passionate Front-end & UII/UX Designer from Meerut. I am Organizer, @Meerutcodehub.",
+    "bio": "A Passionate Front-end & UI/UX Designer from Meerut. I am Organizer, @Meerutcodehub.",
     "social": {
       "instagram" : "https://www.instagram.com/_half_engineer_01/",
       "github": "https://github.com/gautammanak1",
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/gautammanak.pdf"
       },
       "footer": [
         { "label": "MeerutCodeHub", "url": "https://www.commudle.com/communities/meerut-code-hub" },

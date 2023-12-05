@@ -35,7 +35,34 @@
       "links": [
         {
           "type": "github",
+          "url": "https://github.com/GAUTAMMANAK1/Periodic-Table-of-Elements"
+        },
+        {
+          "type": "external",
           "url": "https://gautammanak1.github.io/Periodic-Table-of-Elements/"
+         
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "📝  ToDo List",
+      "title": "ToDo List (ReactJS - Firebase DB) ",
+      "description": "This is a simple To-Do List web application built with React and Firebase for user authentication. With this app, you can create and manage your to-do tasks securely using Firebase authentication. It provides a responsive and intuitive user interface for managing your tasks.",
+      "tags": [""],
+      "image": {
+        "src": "../../images/todo list.jpeg",
+        "alt": "Quick Open Source "
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/GAUTAMMANAK1/Todo-List"
+        },
+        {
+          "type": "external",
+          "url": "https://todo-list-beta-pearl.vercel.app/"
+         
         }
       ]
     }
